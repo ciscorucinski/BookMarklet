@@ -2,7 +2,7 @@
  * Created by Christopher on 3/14/2016.
  */
 
-(function () {
+javascript: (function () {
 
     var isTesting = false;
     var isFirst = true;
